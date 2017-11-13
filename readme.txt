@@ -6,4 +6,4 @@ My stupid boss still prefers SVN.dddddddddddddddd
 dsfddddddddddddddd wewewewww
 1222222222222222222222
 这是dev分支上做手脚！
-11111111111111111111
+Creating a new branch is quick & simple.
